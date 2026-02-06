@@ -196,6 +196,15 @@ Displays content distribution across different ratings.
 - Calculated Fields
 - Exploratory Data Analysis (EDA)
 
+
+---
+
+## 📂 Tableau Workbook
+
+You can download the Tableau workbook here:
+
+[Download Amazon Prime Tableau Workbook](https://github.com/Justin-Joji/tableau-projects/blob/main/Amazon%20prime%20project.twb)
+
 ---
 
 ## 👤 Author
