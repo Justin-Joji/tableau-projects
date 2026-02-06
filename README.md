@@ -110,3 +110,99 @@ Data Analyst | Tableau | Power BI
 
 ## 📌 Note
 This project is part of a Tableau portfolio created for learning, analysis, and interview demonstration purposes.
+
+
+---
+
+# 2. Amazon Prime Video Analysis – Tableau Project
+
+## 📊 Project Overview
+This project analyzes Amazon Prime Video content data to understand the platform’s content distribution, genre availability, release trends, and rating patterns.  
+The goal of the analysis is to provide insights into how Amazon Prime structures its content library across different countries, years, and content types.
+
+An interactive Tableau dashboard was created to visualize content trends and support data-driven insights.
+
+---
+
+## 🎯 Objectives
+- Analyze Movies vs TV Shows distribution
+- Understand content availability by country
+- Study genre-wise content distribution
+- Analyze release year trends
+- Explore rating patterns across content types
+- Present insights using interactive Tableau dashboards
+
+---
+
+## 🧹 Data Cleaning & Preparation
+The following data preparation steps were performed:
+- Cleaned and standardized release year values
+- Handled NULL values in country, rating, and genre fields
+- Split and grouped multiple genre values for analysis
+- Created calculated fields for:
+  - Total Titles
+  - Content Type (Movie / TV Show)
+  - Release Year Trends
+- Ensured consistent formatting for dashboard visuals
+
+---
+
+## 📈 Dashboard Components
+
+### 🎬 Movies vs TV Shows
+Displays the distribution of Movies and TV Shows available on Amazon Prime.
+
+---
+
+### 🌍 Content by Country
+Shows content availability across different countries to identify regional coverage.
+
+---
+
+### 🗂 Genre Distribution
+Analyzes the most common genres available on the platform.
+
+---
+
+### 📅 Release Year Trend
+Shows how content production has changed over time based on release years.
+
+---
+
+### ⭐ Rating Analysis
+Displays content distribution across different ratings.
+
+---
+
+## 🔍 Key Insights
+- Movies form the majority of content on Amazon Prime
+- Content availability is higher in specific regions
+- Certain genres dominate the content library
+- Significant growth in content after recent years
+- Rating distribution varies between Movies and TV Shows
+
+---
+
+## ⚠️ Data Limitations
+- Dataset does not include viewership or user engagement data
+- No financial or subscription revenue information available
+- Genre and country fields may contain multiple values per title
+
+---
+
+## 🛠 Tools Used
+- Tableau
+- Data Visualization
+- Calculated Fields
+- Exploratory Data Analysis (EDA)
+
+---
+
+## 👤 Author
+**Justin Joji**  
+Data Analyst | Tableau | Power BI  
+
+---
+
+## 📌 Note
+This project is created for learning, portfolio development, and interview demonstration purposes.
